@@ -1,0 +1,17 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+**/node_modules
+**/dist
+**/*.tsbuildinfo
+.env
+.env.*
+docs
+*.md
+.vscode
+.idea
+.cache
+.local
+.config
+attached_assets
